@@ -1,0 +1,151 @@
+{
+  "about": [
+    {
+      "id": "1",
+      "name": "Andrés Turano",
+      "position": "Full Stack Developer Jr.",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit deserunt aliquam dignissimos at suscipit quas, incidun66 esta es uan prueba de guardado de esta y estamos haciendo una prueba yo y i gata que no para de llorar para poder salir a las 12 de la noche de un sabdo ya dminos"
+    }
+  ],
+  "header": [
+    {
+      "id": "1",
+      "backImage": "../assets/Img/bg-header2.jpg",
+      "image": "../assets/Img/imagen_usuario.jpg"
+    }
+  ],
+  "experience": [
+    {
+      "id": "3",
+      "name": "CTM Informática",
+      "image": "../assets/Img/logo-Job2.png",
+      "period": "10 años maso ",
+      "position": "Técnico",
+      "tasks": "Soy el item 1 por ahora."
+    },
+    {
+      "id": 1653598152298,
+      "name": "BBVA Banco Frances",
+      "image": "../assets/Img/logo-Job2.png",
+      "period": "2002 - 2005",
+      "position": "Ayudante",
+      "tasks": "Organizacion legajos de clientes."
+    },
+    {
+      "id": 1653876452882,
+      "name": "Empresa",
+      "image": "../assets/Img/logo-Job2.png",
+      "period": "xxxx - xxxx",
+      "position": "Posición",
+      "tasks": "Algunas tareas."
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "name": "Secundaria",
+      "title": "Título",
+      "description": "Algo",
+      "image": "../assets/Img/educacion-logo.png"
+    },
+    {
+      "id": 1653945511321,
+      "name": "Primaria",
+      "title": "Título",
+      "description": "Algo",
+      "image": "../assets/Img/educacion-logo.png"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Modificacion de porfolio",
+      "description": "Modificacion de un porfolio web alojado en github",
+      "date": "FECHA",
+      "image": "../../../assets/Img/proyecto1.jpg",
+      "link": "https://"
+    },
+    {
+      "id": 2,
+      "name": "Proyecto integrador AP",
+      "description": "Realizacion de un Portfolio Web, tanto front-end como back-end.",
+      "date": "FECHA",
+      "image": "../../../assets/Img/proyecto2.jpg",
+      "link": "https://"
+    },
+    {
+      "id": 3,
+      "name": "Lista de Tareas",
+      "description": "Realizacion de una simple app, la cual guarda las tareas del día.",
+      "date": "FECHA",
+      "image": "../../../assets/Img/proyecto3.jpg",
+      "link": "https://"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "HTML 5",
+      "percent": "55",
+      "outerStrokeColor": "#e44d26",
+      "imageSrc": "../assets/Img/logo-html5.png"
+    },
+    {
+      "id": "2",
+      "name": "CCS 3",
+      "percent": "29",
+      "outerStrokeColor": "#0d73b7",
+      "imageSrc": "../assets/Img/logo-css3a.png"
+    },
+    {
+      "id": "3",
+      "name": "JavaScript",
+      "percent": "15",
+      "outerStrokeColor": "#f7df1e",
+      "imageSrc": "../assets/Img/logo-js.png"
+    },
+    {
+      "id": "4",
+      "name": "Bootstrap",
+      "percent": "36",
+      "radius": "100",
+      "outerStrokeWidth": "19",
+      "innerStrokeWidth": "90",
+      "outerStrokeColor": "#7409f6",
+      "innerStrokeColor": "'black'",
+      "animation": "true",
+      "animationDuration": "900",
+      "showTitle": "false",
+      "showSubtitle": "false",
+      "showUnits": "false",
+      "showImage": "true",
+      "imageSrc": "../assets/Img/logo-bootstrap.png",
+      "imageWidth": "73",
+      "imageHeight": "73",
+      "outerStrokeLinecap": "'none'",
+      "space": "2",
+      "responsive": "true"
+    },
+    {
+      "id": "5",
+      "name": "Angular",
+      "percent": "30",
+      "outerStrokeColor": "#e23237",
+      "imageSrc": "../assets/Img/logo-angular.png"
+    },
+    {
+      "id": "6",
+      "name": "TypeScript",
+      "percent": "20",
+      "outerStrokeColor": "#007acc",
+      "imageSrc": "../assets/Img/logo-ts.png"
+    },
+    {
+      "id": 1653962638371,
+      "name": "Ingles técnico",
+      "percent": "60",
+      "outerStrokeColor": "#48f000",
+      "imageSrc": "../assets/Img/logo-dictionary.png"
+    }
+  ]
+}
